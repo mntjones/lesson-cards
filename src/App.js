@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import TabbedLesson from './TabbedLesson';
 
 function App() {
   return (
@@ -8,7 +9,9 @@ function App() {
         Hanen More Than Words - Speech Therapy Acronyms
       </header>
 
-      
+      <div className="Tabs">
+        < TabbedLesson />
+      </div>
     </div>
   );
 }

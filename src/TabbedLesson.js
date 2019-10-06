@@ -15,10 +15,10 @@ class TabbedLesson extends Component {
         onSelect={tabIndex => this.setState({ tabIndex })}>
 
           <TabList>
-            <Tab>The 4 I's</Tab>
+            <Tab>The 4 I s</Tab>
             <Tab>OWL</Tab>
             <Tab>ROCK</Tab>
-            <Tab>The 4 S's</Tab>
+            <Tab>The 4 S s</Tab>
           </TabList>
 
           <TabPanel>
@@ -57,4 +57,5 @@ class TabbedLesson extends Component {
     );
   }
 }
+
 export default TabbedLesson;
