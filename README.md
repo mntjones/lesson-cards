@@ -13,6 +13,9 @@ OWL
 ROCK
 
 
+I also have links to supportive resources and am developing worksheets so parents can keep track of the methods they are using and having success with.
+
+
 ## Run me
 
 To run this app:
