@@ -12,6 +12,13 @@ function App() {
       <div className="Tabs">
         < TabbedLesson />
       </div>
+
+      <div className="AddLinks">
+
+        <p>Additional links to resources:</p>
+        
+        
+      </div>
     </div>
   );
 }
