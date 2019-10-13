@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './style/App.css';
 import TabbedLesson from './TabbedLesson';
 
 function App() {
@@ -16,8 +16,8 @@ function App() {
       <div className="AddLinks">
 
         <p>Additional links to resources:</p>
-        
-        
+
+
       </div>
     </div>
   );

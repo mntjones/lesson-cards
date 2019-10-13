@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-import './TabbedLesson.css';
+import './style/TabbedLesson.css';
 
 class TabbedLesson extends Component {
 
