@@ -16,10 +16,10 @@ class TabbedLesson extends Component {
         onSelect={tabIndex => this.setState({ tabIndex })}>
 
           <TabList>
-            <Tab>The 4 I s</Tab>
+            <Tab>The Four I's</Tab>
             <Tab>OWL</Tab>
             <Tab>ROCK</Tab>
-            <Tab>The 4 S s</Tab>
+            <Tab>The Four S's</Tab>
           </TabList>
 
           <TabPanel>
@@ -34,23 +34,23 @@ class TabbedLesson extends Component {
             <ul>
             	<li>Observe</li>
             	<li>Wait</li>
-            	<li>L?</li>
+            	<li>Listen</li>
             </ul>
           </TabPanel>
           <TabPanel>
             <ul>
-              <li>R</li>
-            	<li>O</li>
+              <li>Repeat, Repeat, Repeat</li>
+            	<li>Offer Opportunities (wait)</li>
             	<li>Cue</li>
             	<li>Keep it Fun</li>
             </ul>
           </TabPanel>
           <TabPanel>
             <ul>
-              <li>Slow it down</li>
-            	<li>S </li>
-            	<li>S</li>
-            	<li>S</li>
+              <li>Say Less</li>
+            	<li>Stress key words </li>
+            	<li>Slow it down</li>
+            	<li>Show</li>
             </ul>
           </TabPanel>
         </Tabs>
